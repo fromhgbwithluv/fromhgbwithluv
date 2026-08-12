@@ -19,14 +19,14 @@
 My Profile
 -------------------------------
 Name: Hoàng Gia Bảo.
-WhoamI: High School Student 🏫.
+WhoamI: Ho Chi Minh University of Science 🏫.
 Gender: Male.
 Location: DongNai, VietNam.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening music 🎶.
 Languages: Bash, CPlusPlus, CSharp, Python, NodeJS, Java, Kotlin.
-Learning: Computer Science.
-Telegram: @annonyviet.
+Learning: Artificial Intelligence.
+Telegram: @fromhgbwithluv.
 ```
 <br>
      
@@ -47,16 +47,16 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "center">
-  <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Github Stats" src="https://github-stats-extended.vercel.app/api/?username=YT-Advanced&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
-  <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YT-Advanced&langs_count=20&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/fromhgbwithluv"><img alt="fromhgbwithluv's Github Stats" src="https://github-stats-extended.vercel.app/api/?username=fromhgbwithluv&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+  <a href="https://github.com/fromhgbwithluv"><img alt="fromhgbwithluv's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fromhgbwithluv&langs_count=20&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>
 </div>
 <br>
 
 <h2 align="center"> My contributions game 🐍🎮</h2>
 
-![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/fromhgbwithluv/fromhgbwithluv/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fromhgbwithluv/fromhgbwithluv/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 
@@ -75,7 +75,7 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://count.getloli.com/@YT-Advanced?theme=original-new" />
+<img src="https://count.getloli.com/@fromhgbwithluv?theme=original-new" />
   </div>
 <br>
 
